@@ -1,20 +1,29 @@
-# 100 Jours de Code - Log
+# 100 Days Of Code - Round 1 with Francisco Baptista
 
-### Jour 0: 26 Février 2016
-##### (delete me or comment me out)
+![alt text](computer-map.jpg "Coding Expedition!")
 
-**Progrès**: Correction du CSS, avancement de la fonctionnalité canvas dans l'app
 
-**Pensées:** J'ai vraiment bataillé avec le CSS, mais, dans l'ensemble, j'ai l'impression que je commence à m'améliorer. Canvas est encore un concept nouveau pour moi, mais j'ai réussi à comprendre des fonctionnalités de base.
+Hello world! Welcome to the explorer's journal of my 100 days expedition into the dreaded Codelands. This log will contain the records of my sucesses (hopefully a handful of these), failures (probably a lot of these) and all the hardwork and learning needed to make the previous a reality (definetly tons of these).
 
-**Lien vers les travaux:** [Calculator App](http://www.example.com)
+Full disclaimer: this is not my first journey into those shoalwaters, but my first time around, with all the confidence of the ignorant I came woefully unprepared. This time, having retreated to lick my wounds and prepare my campaign plan, I come - probably not ready - but more equipped to explore a bit fu 	rther than last time.
+With the wonderful tools of community-building (and accompanying peer-pressure), forward-planning and commitment I plan to finish this round of coding at least one hour every day for 100 days.
 
-### Jour 2: 27 février 2016
+Working full-time and studying at college make finding time to code a challenge in itself, but by setting clear goals and actionable milestones in-between I plan to boldly go where I've never been before.
 
-**Progrès**: J'ai complété des exercices surFreeCodeCamp.
+**TL;DR: One man and one IDE enter, only one comes out! Welcome to the Codedome!** 
 
-**Pensées** J'ai commencé à codé récemment, et c'est vraiment super quand je parviens à résoudre un exercice d'algorithme après de nombreux essais et d'heures passées dessus.
+![alt text](ID_ChicoBiologo.jpg "Coding Expedition!")
 
-**Liens vers les travaux**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/">here</a>.</p>
+
+<p align="center"><b>Check out my Github repos </b><a href="https://github.com/chicobaptista">here</a>.</p>
+
+### Day 0: April 15, 2018
+
+**Today's Progress**: Setup the Log and github repo.
+
+**Thoughts:** Getting ready to start a new attempt @ the 100days of code challenge. The first time I tried this challenge I just posted every day my progress on Twitter, but quickly lost track of things specially when the inevitable off-days started accumulating. I was planning on building a proper log, when, perusing the 100 Days of Code Challenge official page I found out that there was a log template all along! Pro-tip: read the documentation for a new project before jumping in folks.
+
+**Link(s) to work** 
+No work this time, but if you're here, check out my [GitHubPage portolio (WIP)]:
+1. (https://chicobaptista.github.io)
