@@ -20,9 +20,9 @@ Working full-time and studying at college make finding time to code a challenge 
 
 ## Projects I intend to complete on this round:
 
-[ ] Personal Portfolio (https://github.com/chicobaptista/chicobaptista.github.io)
-[ ] GoogleDriveScripts to automate my translation workflow
-[ ] An AndroidApp to help organize my board game collection
+- [ ] Personal Portfolio (https://github.com/chicobaptista/chicobaptista.github.io)
+- [ ] GoogleDriveScripts to automate my translation workflow
+- [ ] An AndroidApp to help organize my board game collection
 
 
 ### Day 0: April 15, 2018
