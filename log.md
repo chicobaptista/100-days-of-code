@@ -12,7 +12,7 @@ Working full-time and studying at college make finding time to code a challenge 
 
 **TL;DR: One man and one IDE enter, only one comes out! Welcome to the Codedome!** 
 
-![alt text](ID_ChicoBiologo.jpg "Coding Expedition!")
+![alt text](ID_ChikoBiologo.jpg "Coding Expedition!")
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/">here</a>.</p>
 
