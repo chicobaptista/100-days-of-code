@@ -34,3 +34,14 @@ Working full-time and studying at college make finding time to code a challenge 
 **Link(s) to work** 
 No work this time, but if you're here, check out my [GitHubPage portolio (WIP)]:
 1. (https://chicobaptista.github.io)
+
+### Day 1: April 16, 2018
+
+**Today's Progress**: Finished some css improvements and a multilingual jQuery support for my portfolio.
+
+**Thoughts:** Using git to track feature development proved to be a brillient idea. On other news, asked StackOverflow about a jQuery issue that was bugging me for weeks and one of the first answers was 'did you use console.logging to try and figure out exactly where the issue is?' Of course I didn't and using the chrome developer tools (ctrl+shift+i) revealed that the jQuery link I was calling on my html was a slimified version, which didn't support the getJSON() method my script was using. So: (a) StackOverflow is full of helpful and amazing people and (b) use the damn console!
+
+**Link(s) to work** 
+1. Multilingual support dev branch (https://github.com/chicobaptista/chicobaptista.github.io/tree/feature-multilingual)
+2. Basic CSS color palette and typefaces dev branch (https://github.com/chicobaptista/chicobaptista.github.io/tree/feature-ColorFonts)
+3. Dev branch with all new features included (https://github.com/chicobaptista/chicobaptista.github.io/tree/Develop)
