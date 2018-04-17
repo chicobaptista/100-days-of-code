@@ -30,6 +30,7 @@ Working full-time and studying at college make finding time to code a challenge 
 
 **Today's Progress**: Did some final touches to my personal portfolio, including a photo of me, links to my work and a few typos fixed. Published it on github pages.
 
+**Thoughts:** Still not really clear on how to merge a pull request when the branch to be pulled is very different from the head. Initial auto commits made a mess, and I found it easier to just copy files from the pullled branch on this case, since I was positivie it would work and was the final status intended.
 
 **Link(s) to work** 
 1. Multilingual support dev branch (https://chicobaptista.github.io)
