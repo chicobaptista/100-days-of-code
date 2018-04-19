@@ -26,6 +26,18 @@ Working full-time and studying at college make finding time to code a challenge 
 - [ ] An AndroidApp to help organize my board game collection
 
 
+### Day 3: April 18, 2018
+
+**Today's Progress**: Worked on a few batch scripts to automate some of the file handling in my translation job. Specifically, how to extract all images of office documents (.docx and .pptx) into a designated folder. Also, went into a dev career meetup.
+
+**Thoughts:** Working on cmd scripts to automate some of the most boring parts of translation. That's one of the core purposes of programming right? To clear up time spent on mechanical tasks in favor of more productive and creative work. Also, lots of fun at the meetup, talked about getting your foot on the door of IT companies, transitioning from different fields, what junior, full and senior mean when tech changes so fast and other stuff. Networking is an important step on my coding journey as well, so I count it as time well spent.
+
+
+**Link(s) to work** 
+1. Simple scripts repository (https://github.com/chicobaptista/Translation-utilities)
+2. Meetup event (https://www.meetup.com/pt-BR/dev-talks-campinas/events/249775999/)
+
+
 ### Day 2: April 17, 2018
 
 **Today's Progress**: Did some final touches to my personal portfolio, including a photo of me, links to my work and a few typos fixed. Published it on github pages.
