@@ -26,6 +26,17 @@ Working full-time and studying at college make finding time to code a challenge 
 - [ ] An AndroidApp to help organize my board game collection
 
 
+### Day 4: April 20, 2018
+
+**Today's Progress**: Not much dev work this time. Getting studying some EOS solidity for my first hackaton this weekend.
+
+**Thoughts:** I'm going to a blockchain hackaton this weekend, and its the first time I'll be attending  such an event. I've talked with some devs about it and they all told me that it is absolutely not a problem to be on the first stages of learning how to program. And still I'm nervous about having little to offer the team when I get there. Well, there's a first for everything right? No use gettin this performance anxiety and not doing anything.
+
+
+**Link(s) to work** 
+1. No work today, but check out the hackaton I'm attending this weekend: (http://hackathoncieloblu.com.br/)
+
+
 ### Day 3: April 18, 2018
 
 **Today's Progress**: Worked on a few batch scripts to automate some of the file handling in my translation job. Specifically, how to extract all images of office documents (.docx and .pptx) into a designated folder. Also, went into a dev career meetup.
