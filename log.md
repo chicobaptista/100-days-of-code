@@ -21,16 +21,17 @@ Working full-time and studying at college make finding time to code a challenge 
 ## Projects I intend to complete on this round:
 
 - [x] Personal Portfolio v1.0 (https://github.com/chicobaptista/chicobaptista.github.io)
+- [ ] Basic Frontend development of the App Presta Conta
 - [ ] GoogleDriveScripts to automate my translation workflow
 - [ ] Personal porfolio v2.0
-- [ ] An AndroidApp to help organize my board game collection
+- [ ] A WebApp to help organize my board game collection
 
 
 ### Days 5 and 6: April 21 and April 22, 2018
 
-**Today's Progress**: Created a very basic app for our hackaton project and participated in the development both at the programming and business levels. Learnt a whole lot about front-end work, blockchains, smart contracts and also on delivering a presentation to a board of judges and developing the business side for a project, including creating and developing a business model.
+**Today's Progress**: Created a very basic app for our hackaton project and participated in the development both at the programming and business levels. Learnt a whole lot about front-end work, blockchains, smart contracts and also on delivering a presentation to a board of judges and developing the business side for a project, including creating and developing a business model. We didn't win, but it was very close!
 
-**Thoughts:** The hackaton was a blast. The idea was that the other dev in the team was going to create the app for our project, and I was going to just create the mockups and start wireframing. However he got tangled into the blockchain side of the project and I started to create a very basic boilerplate, which gradually turned into me doing all the front-end development with his mentoring. Having this kind of responsability was actually really stressfull, but I learned a whole ton about Ionic, Angular.JS, UX and app development in 30 hours of non-stop work. The hackaton staff was really helpful, and we got a ton of advice from mentors on both the technical and the business sides of our project, and the Dev mentors were immensily cool and helpful when I turned to them for advice on making the app. I'll be working a bit more on it to make it at least minimally functional on the front-end side before turning to a new project.
+**Thoughts:** The hackaton was a blast. The idea was that the other dev in the team was going to create the app for our project, and I was going to just create the mockups and start wireframing. However he got tangled into the blockchain side of the project and I started to create a very basic boilerplate, which gradually turned into me basically doing all the front-end development with his advice. Having this kind of responsability was actually really stressfull, but I learned a whole ton about Ionic, Angular.JS, UX and app development in 30 hours of non-stop work. The hackaton staff was really engaged with the whole deal, and we got a ton of advice from mentors on both the technical and the business sides of our project. Special shout-out to the Dev mentors who were immensily cool and helpful when I turned to them for advice on making the app. I'll be working on polishing the front-end this week before turning to a new project.
 
 
 **Link(s) to work** 
