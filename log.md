@@ -27,6 +27,17 @@ Working full-time and studying at college make finding time to code a challenge 
 - [ ] A WebApp to help organize my board game collection
 
 
+### Day 7: April 23, 2018
+
+**Today's Progress**: Worked a bit more on the app frontend and created some alerts for the buttons
+
+**Thoughts:** Learning more about Ionic and Angular.js, added some alerts() to the buttons with confirmation messages for the actions the user can take while on the app.
+
+
+**Link(s) to work** 
+1. Checkout the code for the app here: (https://github.com/chicobaptista/prestaConta)
+
+
 ### Days 5 and 6: April 21 and April 22, 2018
 
 **Today's Progress**: Created a very basic app for our hackaton project and participated in the development both at the programming and business levels. Learnt a whole lot about front-end work, blockchains, smart contracts and also on delivering a presentation to a board of judges and developing the business side for a project, including creating and developing a business model. We didn't win, but it was very close!
