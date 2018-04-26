@@ -21,10 +21,21 @@ Working full-time and studying at college make finding time to code a challenge 
 ## Projects I intend to complete on this round:
 
 - [x] Personal Portfolio v1.0 (https://github.com/chicobaptista/chicobaptista.github.io)
-- [ ] Basic Frontend development of the App Presta Conta
+- [x] Basic Frontend development of the App Presta Conta
 - [ ] GoogleDriveScripts to automate my translation workflow
 - [ ] Personal porfolio v2.0
 - [ ] A WebApp to help organize my board game collection
+
+
+### Day 8: April 25, 2018
+
+**Today's Progress**: Working on some google scripts to create the basic PM framework for new projects. This time, worled on my google script to create a File Tracker spreadsheet template.
+
+**Thoughts:** This googlescripts is a bit confusing sometimes, but I got the hang of what I needed today. For now it only creates a simle template, but soon the idea is that it(or another script) will populate the spreadsheet with actual data.
+
+
+**Link(s) to work** 
+1. Simple scripts repository (https://github.com/chicobaptista/Translation-utilities)
 
 
 ### Day 7: April 23, 2018
