@@ -27,9 +27,20 @@ Working full-time and studying at college make finding time to code a challenge 
 - [ ] A WebApp to help organize my board game collection
 
 
+### Day 9: April 26, 2018
+
+**Today's Progress**: Improved my google script to create a spreadsheet template with some nice formatting and including some input parameters
+
+**Thoughts:** Still struggling a bit with the documentation on the google sheet app. Thank the heavens for stack overflow and google.
+
+
+**Link(s) to work** 
+1. Simple scripts repository (https://github.com/chicobaptista/Translation-utilities)
+
+
 ### Day 8: April 25, 2018
 
-**Today's Progress**: Working on some google scripts to create the basic PM framework for new projects. This time, worled on my google script to create a File Tracker spreadsheet template.
+**Today's Progress**: Working on some google scripts to create the basic PM framework for new projects. This time, worked on my google script to create a File Tracker spreadsheet template.
 
 **Thoughts:** This googlescripts is a bit confusing sometimes, but I got the hang of what I needed today. For now it only creates a simle template, but soon the idea is that it(or another script) will populate the spreadsheet with actual data.
 
