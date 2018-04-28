@@ -27,6 +27,17 @@ Working full-time and studying at college make finding time to code a challenge 
 - [ ] A WebApp to help organize my board game collection
 
 
+### Day 10: April 27, 2018
+
+**Today's Progress**: Messed with my google script to create a spreadsheet template to figure ou why it is not adding colors properly. It is working, for now
+
+**Thoughts:** That was incredibly frustrating, it was all working fine yesterday and now it is not working at all. No idea what the difference was. And to cap it off, I hadn't made a commit of my working code yesterday, so I lost this change. Always commit folks, even when you're too tired. Worst case, just revert the commit to a working version.
+
+
+**Link(s) to work** 
+1. Simple scripts repository (https://github.com/chicobaptista/Translation-utilities)
+
+
 ### Day 9: April 26, 2018
 
 **Today's Progress**: Improved my google script to create a spreadsheet template with some nice formatting and including some input parameters
